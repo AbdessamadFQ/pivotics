@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "1e43",
+      "cityName": "Herrera del Duque",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-06T03:20:48.082Z",
+      "notes": "",
+      "position": {
+        "lat": "39.19261490204056",
+        "lng": "-5.00966910499813"
+      }
+    },
+    {
+      "id": "fdd9",
+      "cityName": "Porta",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-06T03:31:17.851Z",
+      "notes": "",
+      "position": {
+        "lat": "42.50251707743888",
+        "lng": "1.7359015432448734"
+      }
+    },
+    {
+      "id": "7497",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-12T19:07:17.384Z",
+      "notes": "",
+      "position": {
+        "lat": "40.44694705960048",
+        "lng": "-3.6254882812500004"
+      }
+    },
+    {
+      "id": "724c",
+      "cityName": "Marrakesh",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-04-12T19:07:49.326Z",
+      "notes": "",
+      "position": {
+        "lat": "31.62298248226682",
+        "lng": "-7.995300292968751"
+      }
+    }
+  ]
+}
